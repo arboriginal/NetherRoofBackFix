@@ -14,6 +14,8 @@ For now, Spigot / PaperMC 1.13.2. Only tested on the second but should work with
 
 Simply drop the jar file into your plugin directory, then restart (or reload) your server. A new folder, named « NetherRoofBackFix » is created in it, letting you change default settings. You can reload the plugin when done without having to restart the server.
 
+You can download the last release here: [NetherRoofBackFix.jar](https://github.com/arboriginal/NetherRoofBackFix/releases).
+
 ## Commands
 
 There is only one command: `nrbfr` (**N**ether**R**oof**B**ack**F**ix **R**eload). It reloads the plugin configuration.
