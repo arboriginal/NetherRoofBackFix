@@ -6,6 +6,10 @@ Otherwise, when he types /back, he was teleported on the Nether roof top (above 
 
 With this plugin, now when teleporting to this Nether roof position, the location is recalculated to find a safe area below: If necessary, a small platform of Netherrack is created.
 
+## Compatibilitie
+
+For now, Spigot / PaperMC 1.13.2. Only tested on the second but should work without problems on Spigot too.
+
 ## How to install
 
 Simply drop the jar file into your plugin directory, then restart (or reload) your server. A new folder, named « NetherRoofBackFix » is created in it, letting you change default settings. You can reload the plugin when done without having to restart the server.
