@@ -1,0 +1,10 @@
+configuration_reloaded: "NetherRoofBackFix configuration has been reloaded."
+no_safe_place_found: "Can't find a safe place, sorry..."
+
+avoid_if_no_safe_place: true
+warn_player_if_avoided: true
+
+minimum: 5
+minDown: 20
+minAir: 2
+secure: 1

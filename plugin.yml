@@ -1,0 +1,29 @@
+name: NetherRoofBackFix
+description: Fix back position when a player is placed on Nether roof.
+version: 1.0
+
+author: arboriginal
+website: https://github.com/arboriginal
+
+depend: [ ]
+softdepend: [ ]
+
+api-version: 1.13
+database: false
+
+main: me.arboriginal.NetherRoofBackFix.Main
+
+commands:
+   nrbfr:
+      description: Reload NetherRoofBackFix configuration
+      usage: /nrbfr
+      permission: nrbf.reload
+
+permissions:
+   nrbf.reload:
+      description: Allows to reload the plugin configuration
+      default: op
+   nrbf.bypass:
+      description: Bypass teleportation fix
+      default: false
+
